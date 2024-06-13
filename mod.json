@@ -1,0 +1,14 @@
+{
+	"geode": "3.0.0-alpha.2",
+	"gd": {
+		"win": "2.206",
+		"android": "2.206",
+		"mac": "2.206",
+		"ios": "2.206"
+	},
+	"id": "prevter.mirror_hitbox_fix",
+	"name": "Mirror Hitbox Fix",
+	"version": "v1.0.0",
+	"developer": "Prevter",
+	"description": "Fixes issues with RobTop hitboxes"
+}
